@@ -66,7 +66,8 @@ Make sure you have the following installed:
    ```
 
    * A `.env` file **should be present** for configuration.
-   * All variables in `.env-example` are commented.
+   * All variables in `.env-example` are commented. 
+     Platform starts with an empty `.env` file.
      You can customize any environment setting by **uncommenting** the relevant line and providing a new value.
 
 3. Start Docker desktop and ensure it is running.
@@ -169,3 +170,11 @@ python <agent_name>.py
 ✅ Make sure your MCP server supports `streamable-http` protocol and is remotely accessible.Also make sure that you're specifiying full URL of your server, like - `http://host.docker.internal:8000/mcp`
 
 ⚠️ Side note: `sse` protocol is officially deprecated by MCP protocol devs, `stdio` protocol is not supported yet, but stay tuned for future announcements!
+
+⚠️ If you encounter Docker issues, follow these steps:
+Clean Up Docker Assets:
+Stop and remove all containers.
+Remove all images.
+Remove all volumes (caution: this action deletes data).
+Prune all unused Docker objects, including containers, images, volumes, and networks.
+These steps typically resolve common issues by providing a clean and refreshed Docker environment.
