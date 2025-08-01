@@ -1,0 +1,155 @@
+{
+  "document_info": {
+    "filename": "Digital_Transformation_Proposal_TechCorp.pdf",
+    "document_type": "business_proposal",
+    "word_count": 1847,
+    "language": "English",
+    "quality_score": 88,
+    "processing_time": "3.2 seconds",
+    "file_size": "4.3 KB"
+  },
+  "sentiment": {
+    "overall_sentiment": "positive",
+    "sentiment_score": 87,
+    "polarity": 0.78,
+    "subjectivity": 0.65,
+    "confidence": 0.94,
+    "dominant_emotion": "optimistic",
+    "business_tone": "professional",
+    "intensity": "strong"
+  },
+  "emotions": {
+    "emotions_detected": [
+      "optimistic",
+      "confident",
+      "professional",
+      "enthusiastic",
+      "strategic",
+      "ambitious"
+    ],
+    "emotion_percentages": {
+      "optimistic": 32,
+      "confident": 28,
+      "professional": 18,
+      "enthusiastic": 12,
+      "strategic": 7,
+      "ambitious": 3
+    },
+    "emotional_complexity": "high",
+    "dominant_emotional_cluster": "positive_business"
+  },
+  "risk": {
+    "overall_risk_level": "medium",
+    "risk_score": 9,
+    "detected_risks": {
+      "financial": {
+        "severity": "medium",
+        "count": 3,
+        "factors": [
+          "large investment",
+          "ROI dependency",
+          "cash flow impact"
+        ]
+      },
+      "operational": {
+        "severity": "low",
+        "count": 2,
+        "factors": [
+          "implementation complexity",
+          "user adoption"
+        ]
+      },
+      "market": {
+        "severity": "medium",
+        "count": 2,
+        "factors": [
+          "competition",
+          "technology evolution"
+        ]
+      },
+      "timeline": {
+        "severity": "low",
+        "count": 1,
+        "factors": [
+          "18-month duration"
+        ]
+      }
+    },
+    "risk_mitigation_quality": "good",
+    "contingency_planning": "present"
+  },
+  "metrics": {
+    "has_financial_data": true,
+    "has_performance_data": true,
+    "roi_indicators": [
+      "180% ROI within 3 years",
+      "$2.3M annual cost savings",
+      "24-month payback period"
+    ],
+    "performance_indicators": [
+      "40% efficiency improvement",
+      "60% manual task reduction",
+      "95% accuracy increase"
+    ],
+    "growth_indicators": [
+      "Scalable architecture",
+      "Future-ready platform",
+      "Competitive advantage"
+    ],
+    "financial_health_score": 85
+  },
+  "business_intelligence": {
+    "market_positioning": "strong",
+    "competitive_advantage": "significant",
+    "innovation_index": 78,
+    "scalability_score": 85,
+    "sustainability_rating": "high"
+  },
+  "compliance": {
+    "frameworks_identified": [
+      "SOX",
+      "GDPR",
+      "ISO 27001"
+    ],
+    "compliance_score": 82,
+    "regulatory_readiness": "good"
+  },
+  "topics": {
+    "primary_focus": "digital_transformation",
+    "categorized_topics": {
+      "technology": [
+        "automation",
+        "cloud infrastructure",
+        "AI integration",
+        "data analytics",
+        "cybersecurity"
+      ],
+      "business": [
+        "ROI optimization",
+        "efficiency gains",
+        "cost reduction",
+        "competitive advantage"
+      ],
+      "project_management": [
+        "phased approach",
+        "milestone tracking",
+        "risk mitigation",
+        "change management"
+      ],
+      "strategic": [
+        "innovation",
+        "scalability",
+        "future-proofing",
+        "market leadership"
+      ]
+    },
+    "topic_relevance_score": 94,
+    "strategic_alignment": "excellent"
+  },
+  "quality": {
+    "content_quality": "excellent",
+    "structure_clarity": "high",
+    "professional_presentation": "superior",
+    "completeness_score": 91
+  }
+}

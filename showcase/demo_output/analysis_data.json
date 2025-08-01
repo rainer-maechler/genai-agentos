@@ -1,0 +1,58 @@
+{
+  "document_info": {
+    "filename": "Digital_Transformation_Proposal.pdf",
+    "document_type": "business_proposal",
+    "word_count": 1247,
+    "language": "English",
+    "quality_score": 85
+  },
+  "sentiment": {
+    "overall_sentiment": "positive",
+    "sentiment_score": 85,
+    "confidence": 0.92,
+    "dominant_emotion": "optimistic"
+  },
+  "risk": {
+    "overall_risk_level": "medium",
+    "risk_score": 8,
+    "detected_risks": {
+      "financial": {
+        "severity": "medium",
+        "count": 2
+      },
+      "operational": {
+        "severity": "low",
+        "count": 1
+      }
+    }
+  },
+  "metrics": {
+    "has_financial_data": true,
+    "roi_indicators": [
+      "180% ROI within 3 years",
+      "$2.3M annual savings",
+      "24-month payback period"
+    ]
+  },
+  "topics": {
+    "primary_focus": "digital_transformation",
+    "categorized_topics": {
+      "technology": [
+        "automation",
+        "cloud",
+        "AI",
+        "analytics"
+      ],
+      "business": [
+        "ROI",
+        "efficiency",
+        "cost savings"
+      ],
+      "risk": [
+        "implementation",
+        "adoption",
+        "timeline"
+      ]
+    }
+  }
+}

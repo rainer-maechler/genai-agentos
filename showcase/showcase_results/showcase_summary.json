@@ -1,0 +1,18 @@
+{
+  "showcase_results": {
+    "executive_summary": "\n# Executive Summary: Digital Transformation Proposal TechCorp\n\n## Overview\nComprehensive analysis of business_proposal containing 1,847 words processed in 3.2 seconds. Document exhibits positive sentiment (87/100) with 94% confidence. Risk assessment indicates medium overall risk level with 4 risk categories identified. Professional presentation quality scored 91/100 with excellent strategic alignment.\n\n## Key Findings\n\n- Strong positive sentiment with 94% confidence indicates well-received pro...",
+    "analysis_metrics": {
+      "sentiment_score": 87,
+      "risk_level": "medium",
+      "quality_score": 91,
+      "confidence": 0.94
+    },
+    "visualizations_generated": 2,
+    "recommendations_count": 8,
+    "processing_details": {
+      "word_count": 1847,
+      "processing_time": "3.2 seconds",
+      "analysis_depth": "comprehensive"
+    }
+  }
+}
